@@ -46,6 +46,24 @@ export default function Experience() {
           <p className="text-sm sm:text-base text-gray-300 mb-3">Marelli | 2011 - 2017</p>
         </div>
 
+         <div className="bg-gray-800 p-6 rounded-2xl shadow-2xl hover:shadow-3xl transition transform hover:-translate-y-1 border border-gray-700">
+             <h3 className="text-xl md:text-2xl font-semibold text-green-400">
+              Professora de Inglês
+            </h3>
+            <p className="font-medium">
+              Fisk Centro de Ensino | 2018 - 2020 
+            </p>
+    
+            <ul className="mt-6 list-disc list-inside text-gray-200 space-y-2">
+              <li>
+                Preparar o conteúdo de ensino de acordo com o nível e as necessidades dos alunos, abordando gramática, vocabulário, pronúncia, leitura, escrita, compreensão auditiva e conversação.
+              </li>
+              <li>
+                Incentivar a prática da fala, leitura, escrita e compreensão auditiva de forma equilibrada para aprimorar a fluência do aluno.
+              </li>
+            </ul>
+        </div>
+
       </div>
     </section>
   );
